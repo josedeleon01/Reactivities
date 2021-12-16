@@ -1,0 +1,12 @@
+C:\Udemy\net_core_and_react\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Udemy\net_core_and_react\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+C:\Udemy\net_core_and_react\Reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Udemy\net_core_and_react\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Udemy\net_core_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Udemy\net_core_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\net_core_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Udemy\net_core_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Udemy\net_core_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Udemy\net_core_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+C:\Udemy\net_core_and_react\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Udemy\net_core_and_react\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
